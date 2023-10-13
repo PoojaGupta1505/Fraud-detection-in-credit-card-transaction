@@ -1,2 +1,2 @@
 # Fraud-detection-in-credit-card-transaction
-It is important that credit card companies are able to It is supervised machine learning project which is done using jupyter notebook.In this project i have used two algorithm logistic regression and decision tree classifier to check which one is giving good accuracy.
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. It is supervised machine learning project which is done using jupyter notebook.In this project i have used two algorithm logistic regression and decision tree classifier to check which one is giving good accuracy.
